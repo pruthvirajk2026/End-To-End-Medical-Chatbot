@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local files and model weights
+.DS_Store
+/model/llama-2-7b-chat.ggmlv3.q4_0.bin
